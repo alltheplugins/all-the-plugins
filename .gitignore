@@ -14,3 +14,4 @@
 /downloads/macos/*
 !/downloads/windows/*.zip
 !/downloads/macos/*.zip
+!/PLUGIN-README-TEMPLATE.md
