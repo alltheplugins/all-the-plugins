@@ -1,0 +1,16 @@
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/ATP-*.md
+!/screenshots/
+/screenshots/*
+!/screenshots/*.png
+!/downloads/
+/downloads/*
+!/downloads/windows/
+!/downloads/macos/
+/downloads/windows/*
+/downloads/macos/*
+!/downloads/windows/*.zip
+!/downloads/macos/*.zip
