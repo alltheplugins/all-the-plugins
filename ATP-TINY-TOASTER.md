@@ -276,6 +276,8 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 # Apple AudioUnitSDK (Mac AU)
 ---
+Copyright (c) 2000-2025 Apple Inc. All rights reserved.
+
  Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
