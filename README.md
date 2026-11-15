@@ -7,6 +7,7 @@ Free audio plugins from [alltheplugins.com](https://alltheplugins.com). Choose a
 ---
 | Plugin |
 | --- |
+| [Tiny Toaster](ATP-TINY-TOASTER.md) |
 | [smooth(e)](ATP-SMOOTH-E.md) |
 | [Vocal Intensity](ATP-VOCAL-INTENSITY.md) |
 | [Double Trouble](ATP-OFFSET-CHOIR.md) |

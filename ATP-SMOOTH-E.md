@@ -19,8 +19,8 @@ Reduce distracting resonances in vocals, instruments and mixes while keeping con
 | Platform | Format | Download |
 | --- | --- | --- |
 | Windows x64 | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/windows/ATP-Smooth-e-1.0.0-Windows-VST3.zip) |
-| macOS | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-Smooth-e-1.0.0-macOS-VST3.zip) |
-| macOS | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-Smooth-e-1.0.0-macOS-AU.zip) |
+| macOS | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-Smooth-e-1.0.0-macOS-VST3.zip) |
+| macOS | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-Smooth-e-1.0.0-macOS-AU.zip) |
 
 
 # Install and use

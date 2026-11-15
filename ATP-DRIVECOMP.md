@@ -19,8 +19,8 @@ Shape vocal dynamics with DRIVE, adjust the low-end balance with BODY and use GA
 | Platform | Format | Download |
 | --- | --- | --- |
 | Windows x64 | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/windows/ATP-DriveComp-Windows-VST3.zip) |
-| macOS 11+ | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-DriveComp-macOS-universal-VST3.zip) |
-| macOS 11+ | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-DriveComp-macOS-universal-AU.zip) |
+| macOS 11+ | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-DriveComp-macOS-universal-VST3.zip) |
+| macOS 11+ | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-DriveComp-macOS-universal-AU.zip) |
 
 
 # Install and use

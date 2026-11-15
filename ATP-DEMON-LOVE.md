@@ -19,8 +19,8 @@ Bring weight and movement to drums, room microphones and other sounds that benef
 | Platform | Format | Download |
 | --- | --- | --- |
 | Windows | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/windows/ATP-Demon-Love-Windows-VST3.zip) |
-| macOS universal | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-Demon-Love-macOS-universal-VST3.zip) |
-| macOS universal | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-Demon-Love-macOS-universal-AU.zip) |
+| macOS universal | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-Demon-Love-macOS-universal-VST3.zip) |
+| macOS universal | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-Demon-Love-macOS-universal-AU.zip) |
 
 
 # Install and use

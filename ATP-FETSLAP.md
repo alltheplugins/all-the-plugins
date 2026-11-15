@@ -19,8 +19,8 @@ Bring out the leading edge of drums and percussion, or add bite to picked guitar
 | Platform | Format | Download |
 | --- | --- | --- |
 | Windows x64 | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/windows/ATP-FetSlap-Windows-VST3.zip) |
-| macOS universal | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-FetSlap-macOS-universal-VST3.zip) |
-| macOS universal | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/b2c977df8bf1ab9cd7b35994946c933de10ba52c/downloads/macos/ATP-FetSlap-macOS-universal-AU.zip) |
+| macOS universal | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-FetSlap-macOS-universal-VST3.zip) |
+| macOS universal | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/e3db1b79498e2aaf2fa32b6a98a5823d561cf0bd/downloads/macos/ATP-FetSlap-macOS-universal-AU.zip) |
 
 
 # Install and use
