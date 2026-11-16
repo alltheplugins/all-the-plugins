@@ -1,6 +1,6 @@
 # smooth(e)
 ---
-Adaptive spectral resonance control with Soft and Hard processing modes.
+Dynamic resonance control for vocals, instruments, and mixes.
 
 **Inspired by:** oeksound soothe2
 
@@ -11,7 +11,9 @@ Adaptive spectral resonance control with Soft and Hard processing modes.
 
 # Overview
 ---
-Reduce distracting resonances in vocals, instruments and mixes while keeping control over tone. Frequency weighting focuses the processing where it helps, and Delta monitoring lets you hear what is being removed. Adjust the response and stereo interaction to suit the source and the surrounding mix.
+Use smoothe(e) to tame harshness on any sound source. A fixed EQ cut stays on the whole time. smooth(e) follows the sound and reduces resonances as they come up. Use the on-screen curve to tell it where to focus.
+
+Start in **Soft** mode and bring up **Depth** until the problem sits back in the mix. Try **Hard** for a more assertive response. Switch on **Delta** to hear exactly what you’re taking out. If you hear too much of the sound you want to keep, back off Depth.
 
 
 # Downloads
