@@ -2,8 +2,6 @@
 ---
 Compression, saturation, tone shaping and parallel mix for forceful dynamics.
 
-**Inspired by:** Soundtoys Devil-Loc Deluxe
-
 **Release version:** v1.0
 
 ![Demon Love editor](screenshots/ATP-Demon-Love.png)

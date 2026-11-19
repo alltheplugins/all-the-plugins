@@ -2,8 +2,6 @@
 ---
 A stereo compressor and limiter with automatic level compensation, adaptive recovery and three simple controls.
 
-**Inspired by:** Waves Renaissance Axx
-
 **Release version:** v1.0
 
 ![Redux Axx editor](screenshots/ATP-Velvet-Cinch.png)

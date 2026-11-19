@@ -4,8 +4,6 @@
 
 <!-- Keep the opening description to one short sentence about what the plugin does. -->
 
-**Inspired by:** {{ORIGINAL_PLUGIN}}
-
 **Release version:** v0.1
 
 <!-- Place the actual editor screenshot here, once. Do not repeat screenshots in Overview, Controls, or Install and use; the website already displays the editor in its showcase. -->

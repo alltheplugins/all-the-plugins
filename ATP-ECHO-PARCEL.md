@@ -2,8 +2,6 @@
 ---
 A six-tap stereo delay with tempo sync, modulation, feedback and per-tap EQ.
 
-**Inspired by:** Waves SuperTap
-
 **Release version:** v1.0
 
 ![UltraTap editor](screenshots/ATP-Echo-Parcel.png)

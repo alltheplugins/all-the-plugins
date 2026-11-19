@@ -2,8 +2,6 @@
 ---
 A stereo vocal compressor with a gentle gate, automatic level compensation and adaptive recovery.
 
-**Inspired by:** Waves Renaissance Vox
-
 **Release version:** v1.0
 
 ![Redux Vox editor](screenshots/ATP-Quiet-Verse.png)

@@ -2,8 +2,6 @@
 ---
 Dynamic resonance control for vocals, instruments, and mixes.
 
-**Inspired by:** oeksound soothe2
-
 **Release version:** v1.0
 
 ![smooth(e) editor](screenshots/ATP-Smooth-e.png)

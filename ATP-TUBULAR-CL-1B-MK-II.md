@@ -4,8 +4,6 @@ Opto-style compression with Vintage and Modern processing, flexible timing and p
 
 **Release version:** v1.0
 
-**Inspired by:** Tube-Tech CL 1B mk II
-
 ![Tubular CL-1B editor](screenshots/ATP-Tubular-CL-1B.png)
 
 

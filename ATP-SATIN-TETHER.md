@@ -2,8 +2,6 @@
 ---
 A stereo soft-knee compressor and expander with adaptive release, linked limiting, parallel mix and an optional stereo sidechain.
 
-**Inspired by:** Waves Renaissance Compressor
-
 **Release version:** v1.0
 
 ![Redux Compressor editor](screenshots/ATP-Satin-Tether.png)

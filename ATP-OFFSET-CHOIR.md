@@ -2,8 +2,6 @@
 ---
 A four-voice stereo doubler with independent delay, detune, modulation and tone controls.
 
-**Inspired by:** Waves Doubler
-
 **Release version:** v1.0
 
 ![Double Trouble editor](screenshots/ATP-Offset-Choir.png)

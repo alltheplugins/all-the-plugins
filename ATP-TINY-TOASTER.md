@@ -2,8 +2,6 @@
 ---
 Tube-style saturation with drive, bias and parallel mix.
 
-**Inspired by:** Soundtoys Little Radiator
-
 **Release version:** v1.0.0
 
 ![Tiny Toaster editor](screenshots/ATP-Tiny-Toaster.png)

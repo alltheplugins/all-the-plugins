@@ -2,8 +2,6 @@
 ---
 A vocal compressor with drive, body shaping, dry/wet blending and a switchable lo-fi circuit.
 
-**Inspired by:** Joey Sturgis Tones Gain Reduction
-
 **Release version:** v1.0
 
 ![DriveComp editor](screenshots/ATP-DriveComp.png)

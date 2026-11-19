@@ -2,8 +2,6 @@
 ---
 A FET-style transient shaper with dry/wet blending, tone control and adjustable Slap.
 
-**Inspired by:** Analog Obsession FetSnap
-
 **Release version:** v1.0
 
 ![FetSlap editor](screenshots/ATP-FetSlap.png)

@@ -2,8 +2,6 @@
 ---
 A stereo six-band parametric equalizer with resonant shelves, third-order cuts and an interactive response graph.
 
-**Inspired by:** Waves Renaissance Equalizer
-
 **Release version:** v1.0
 
 ![Redux Equalizer editor](screenshots/ATP-Linen-Curve.png)

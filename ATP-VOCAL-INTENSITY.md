@@ -2,8 +2,6 @@
 ---
 Drive and automatic leveling with high-pass, low-pass and bright-shaping controls.
 
-**Inspired by:** Harrison Vocal Intensity Processor
-
 **Release version:** v1.1
 
 ![Vocal Intensity editor](screenshots/ATP-Vocal-Intensity.png)
