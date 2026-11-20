@@ -1,6 +1,6 @@
 # ATP G++
 ---
-I built ATP G++ as a faithful recreation of the SSL G-Comp 500 Series stereo bus compressor that’s lived on my drum bus since 2019. My favorite move is to slam the drums, then dial back the Mix until the dry attack comes through. That’s how I get the energy I want without flattening the kit. I’m sharing it free so you can make it your own.
+ATP G++ is a faithful recreation of the SSL G-Comp 500 Series stereo bus compressor that’s lived on my drum bus since 2019. My favorite move is to slam the drums, then dial back the Mix until the dry attack comes through. That’s how I get the energy I want without flattening the kit. That same snap can tighten up a stack of guitars, hold backing vocals together, or give a full mix a little glue. I’m sharing it free so you can make it your own.
 
 **Release version:** v1.0.0
 
