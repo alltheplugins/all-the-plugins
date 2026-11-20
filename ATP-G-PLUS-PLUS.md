@@ -1,6 +1,6 @@
 # ATP G++
 ---
-A bus compressor with sidechain filtering, parallel mix and selectable oversampling.
+I’ve had an SSL G-Comp 500 Series stereo bus compressor on my drum bus since 2019. ATP G++ is my faithful recreation of that sound.
 
 **Release version:** v1.0.0
 
@@ -9,7 +9,7 @@ A bus compressor with sidechain filtering, parallel mix and selectable oversampl
 
 # Overview
 ---
-Shape the movement of drum groups, instrument buses and complete mixes with shared compression. Use a gentle setting to bring a group together, or faster recovery for a more audible rhythmic response. Parallel blending lets you retain some of the original attack while adding the weight of the compressed signal.
+Here’s how I use it: slam the drums, then pull back the Mix knob until the attack comes through again. You get the energy of the compressed signal and the crack of the dry drums. I added an external sidechain and selectable oversampling to the plugin. It’s free. Put it to work on something you’re making.
 
 
 # Downloads
@@ -17,11 +17,15 @@ Shape the movement of drum groups, instrument buses and complete mixes with shar
 | Platform | Format | Download |
 | --- | --- | --- |
 | Windows x64 | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/ed6b867a02212142ba9346fc88aa2b07e865b29c/downloads/windows/ATP%20G%2B%2B.vst3) |
+| macOS universal | VST3 | [Mac VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/95366d2821cc9dd2a8dd96ab5ed89c9e1c3f93f7/downloads/macos/ATP-G-Plus-Plus-macOS-universal-VST3.zip) |
+| macOS universal | AU | [Mac AU](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/95366d2821cc9dd2a8dd96ab5ed89c9e1c3f93f7/downloads/macos/ATP-G-Plus-Plus-macOS-universal-AU.zip) |
 
 
 # Install and use
 ---
 Download the standalone `ATP G++.vst3` file. First move any bundle folders named `ATP G++.vst3`, `ATP Bus-Comp.vst3` or `BusComp.vst3` outside all host scan folders. These names share the same plug-in identity. Copy the downloaded file directly to `C:\Program Files\Common Files\VST3`, then rescan plug-ins and load **ATP G++** on a track or bus. For later file updates, keep a backup outside the scan folders and replace the existing file.
+
+**Mac:** Extract the ZIP. Copy the .vst3 bundle to ~/Library/Audio/Plug-Ins/VST3/ or the .component bundle to ~/Library/Audio/Plug-Ins/Components/, then rescan your host. Signed and Notarized by Apple. Requires macOS 11 or later. Apple Silicon runtime tested; an Intel slice is included but was not runtime tested. External sidechain routing in AU requires a host that supports it.
 
 **Using the interface**
 
@@ -33,7 +37,7 @@ THRESHOLD +20 dB, MAKE UP 0 dB, ATTACK 10 ms, RELEASE AUTO, RATIO 2:1, HPF OFF, 
 
 **Audio support and limits**
 
-Windows x64 VST3 with mono or stereo input and 32-bit floating-point audio. Oversampling changes the latency reported to the host. With a fixed release, the marked attack and release times cover 90% of a dB change in gain reduction. Host automation takes effect at the sample offsets delivered by the DAW, and values hold between points.
+Windows x64 VST3 and macOS universal VST3/AU with mono or stereo input and 32-bit floating-point audio. Oversampling changes the latency reported to the host. With a fixed release, the marked attack and release times cover 90% of a dB change in gain reduction. Host automation takes effect at the sample offsets delivered by the DAW, and values hold between points.
 
 **Automation and recall**
 
