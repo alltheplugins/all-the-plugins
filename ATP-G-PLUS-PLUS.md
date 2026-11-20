@@ -1,6 +1,6 @@
 # ATP G++
 ---
-I’ve had an SSL G-Comp 500 Series stereo bus compressor on my drum bus since 2019. ATP G++ is my faithful recreation of that sound.
+I built ATP G++ as a faithful recreation of the SSL G-Comp 500 Series stereo bus compressor that’s lived on my drum bus since 2019. My favorite move is to slam the drums, then dial back the Mix until the dry attack comes through. That’s how I get the energy I want without flattening the kit. I’m sharing it free so you can make it your own.
 
 **Release version:** v1.0.0
 
@@ -9,7 +9,7 @@ I’ve had an SSL G-Comp 500 Series stereo bus compressor on my drum bus since 2
 
 # Overview
 ---
-Here’s how I use it: slam the drums, then pull back the Mix knob until the attack comes through again. You get the energy of the compressed signal and the crack of the dry drums. I added an external sidechain and selectable oversampling to the plugin. It’s free. Put it to work on something you’re making.
+ATP G++ applies stereo bus compression to drum groups and full mixes. Use Mix to blend dry and compressed signals, the sidechain high-pass filter to reduce low-end triggering, or an external sidechain to key the compressor from another track in a compatible host. Select Off, 2×, or 4× oversampling.
 
 
 # Downloads
