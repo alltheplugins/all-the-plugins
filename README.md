@@ -7,6 +7,8 @@ Free audio plugins from [alltheplugins.com](https://alltheplugins.com). Choose a
 ---
 | Plugin |
 | --- |
+| [ATP 808](ATP-808.md) |
+| [ATP G++](ATP-G-PLUS-PLUS.md) |
 | [Tiny Toaster](ATP-TINY-TOASTER.md) |
 | [smooth(e)](ATP-SMOOTH-E.md) |
 | [Vocal Intensity](ATP-VOCAL-INTENSITY.md) |
