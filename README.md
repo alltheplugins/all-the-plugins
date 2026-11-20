@@ -26,7 +26,7 @@ Free audio plugins from [alltheplugins.com](https://alltheplugins.com). Choose a
 
 # Install
 ---
-Download the individual plugin ZIP from its page and extract it. Copy the complete bundle to the indicated plugin folder, then rescan your host.
+Download the individual plugin from its page. Extract ZIP downloads and copy their complete bundles, or copy a standalone plugin file directly to the indicated folder. Rescan your host.
 
 
 # License

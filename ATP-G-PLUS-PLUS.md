@@ -16,12 +16,12 @@ Shape the movement of drum groups, instrument buses and complete mixes with shar
 ---
 | Platform | Format | Download |
 | --- | --- | --- |
-| Windows x64 | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/42a20a9d4e5844140db3366e6a7d41a8b2d59845/downloads/windows/ATP-G-Plus-Plus-Windows-VST3-1.0.0.zip) |
+| Windows x64 | VST3 | [Windows VST3](https://raw.githubusercontent.com/alltheplugins/all-the-plugins/ed6b867a02212142ba9346fc88aa2b07e865b29c/downloads/windows/ATP%20G%2B%2B.vst3) |
 
 
 # Install and use
 ---
-Extract the individual ZIP and copy the complete `ATP G++.vst3` folder to `C:\Program Files\Common Files\VST3`. Rescan plug-ins in your host and load **ATP G++** on a track or bus. For an update, keep a complete backup outside the host's scan folders. `ATP G++.vst3`, `ATP Bus-Comp.vst3` and `BusComp.vst3` share the same plug-in identity. Move the older bundles outside all host scan folders before installing the complete `ATP G++.vst3` bundle.
+Download the standalone `ATP G++.vst3` file. First move any bundle folders named `ATP G++.vst3`, `ATP Bus-Comp.vst3` or `BusComp.vst3` outside all host scan folders. These names share the same plug-in identity. Copy the downloaded file directly to `C:\Program Files\Common Files\VST3`, then rescan plug-ins and load **ATP G++** on a track or bus. For later file updates, keep a backup outside the scan folders and replace the existing file.
 
 **Using the interface**
 
@@ -68,7 +68,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Third-party notices
 ---
-Required dependency terms follow and are included in the individual package.
+Required dependency terms follow.
 
 
 # Steinberg VST3 SDK
